@@ -8,7 +8,7 @@ body{
     background: #222;
 }
 .card{
-    width: 60%;
+    width: 80%;
     max-width: 400px;
     background: linear-gradient(130deg,#48cae4,#00b4d8);
     text-align: center;
